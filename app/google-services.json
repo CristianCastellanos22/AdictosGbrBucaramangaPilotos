@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1015476712227",
+    "firebase_url": "https://gbr-bucaramanga.firebaseio.com",
+    "project_id": "gbr-bucaramanga",
+    "storage_bucket": "gbr-bucaramanga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015476712227:android:8db0bd72cbfff737",
+        "android_client_info": {
+          "package_name": "com.example.christianxavier.agbrbucaramanga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015476712227-676vprspjsde8eii60bgs575trde382m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.christianxavier.agbrbucaramanga",
+            "certificate_hash": "29a733c896943fdf3544c60a93861c1dbbcddb2e"
+          }
+        },
+        {
+          "client_id": "1015476712227-85v4nfs2d8uvbgf2oeufetq5tmd5f6ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByv-30ty-f0LsHV0d9CWNTIOcQIyp0Tuk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015476712227-85v4nfs2d8uvbgf2oeufetq5tmd5f6ld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015476712227:android:3b74cff452a17432",
+        "android_client_info": {
+          "package_name": "com.example.christianxavier.agbrbucaramangapilotos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015476712227-ulglqt6e5efuuq0p60qog1rasb5q4i17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.christianxavier.agbrbucaramangapilotos",
+            "certificate_hash": "29a733c896943fdf3544c60a93861c1dbbcddb2e"
+          }
+        },
+        {
+          "client_id": "1015476712227-85v4nfs2d8uvbgf2oeufetq5tmd5f6ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByv-30ty-f0LsHV0d9CWNTIOcQIyp0Tuk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015476712227-85v4nfs2d8uvbgf2oeufetq5tmd5f6ld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
